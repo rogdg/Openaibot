@@ -334,3 +334,5 @@ the [AGPL License](https://github.com/LLMKira/Openaibot/blob/main/LICENSE).
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsudoskys%2FOpenaibot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsudoskys%2FOpenaibot?ref=badge_large)
 
 > You wouldn't believe it, but Ai also wrote part of this Readme
+>
+> 
